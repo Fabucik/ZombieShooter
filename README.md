@@ -3,9 +3,9 @@
 If you want to make better graphics or improve code, go ahead
 
 ### Controls
-W - Go up
+Up arrow - Go up
 
-S - Go down
+Down arrow - Go down
 
 Space - Shooting and retrying
 
